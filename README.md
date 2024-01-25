@@ -1,19 +1,23 @@
 # leetcode
 
-##Python Crash Course For Leetcode
+## Python Crash Course For Leetcode
 
-###Dynamic typed variables in python
+### Dynamic typed variables in python
 
 ```python
 n = 5
 
 print('n =', n)
+
+"""
+Generally, double quotes("") are used for string representation and single quotes('') are used for ### regular expressions, dict keys or SQL
+"""
+# Single line comment
 ```
 
 
-### """Generally, double quotes("") are used for string representation and single quotes('') are used for ### regular expressions, dict keys or SQL
-### """
-###  # Single line comment
+
+
 
 ### variables
 ```python
